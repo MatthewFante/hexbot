@@ -1,0 +1,14 @@
+#hexbotContent{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+
+}
+
+main{
+    text-align: center;
+}
