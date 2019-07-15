@@ -13,6 +13,7 @@
 
 }
 
+header,
 main{
     text-align: center;
 }
@@ -35,4 +36,8 @@ main{
     #hexbotContent{
         width: 1100px;
     }
+}
+
+#getColors{
+    width: 100%;
 }
